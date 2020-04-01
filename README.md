@@ -10,7 +10,7 @@
 
 
 
-## 分布式相关
+## 微服务相关
 
 ### SpringCloud组件
 
@@ -20,7 +20,7 @@
 
 - **nacos** [næcoʊz]   "纳科斯"  springcloud服务发现组件，阿里巴巴公司出品
 
-- **consul** [ˈkɑːnsl]  "领事"  springcloud服务发现组件，spring
+- **consul** [ˈkɑːnsl]  领事  springcloud服务发现组件，HashiCorp公司出品
 
 #### 网关类
 
