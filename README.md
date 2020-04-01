@@ -6,12 +6,16 @@
 
 - **enable** [ɪˈneɪbl] 启用，常用在字典配置
 - **disable** [dɪsˈeɪbl] 禁用，常用在字典配置
-- **convert** [kənˈvɜːrt] 转换，常用在类型转换方法
+- **convert** [kənˈvɜːrt] 转换，常用dɪˈfɔːlt,ˈdiːfɔːlt在类型转换方法
 - **instance** [ˈɪnstəns] 实例
+- **default** [ˈdiːfɔːlt] 默认
+- **active** [ˈæktɪv] 活跃的
 
+### 数据库操作
 
+- **explain** [ɪkˈspleɪn] 说明解释，mysql查看sql语句有没有使用索引命令
 
-
+- **process** [prɑsɛs] 处理 mysql用 *SHOW PROCESSLIST*命令查询数据库允许的线程
 
 
 
