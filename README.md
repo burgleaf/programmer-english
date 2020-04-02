@@ -2,14 +2,23 @@
 
 ## 编程常用词汇
 
+### 编程语言相关
+
+* **lambda **[ˈlæmdə] "兰布达" jdk1.8新增的语法糖
+
 ### 方法参数常用定义
 
 - **enable** [ɪˈneɪbl] 启用，常用在字典配置
 - **disable** [dɪsˈeɪbl] 禁用，常用在字典配置
-- **convert** [kənˈvɜːrt] 转换，常用dɪˈfɔːlt,ˈdiːfɔːlt在类型转换方法
+- **convert** [kənˈvɜːrt] 转换，常用在类型转换方法
 - **instance** [ˈɪnstəns] 实例
 - **default** [ˈdiːfɔːlt] 默认
 - **active** [ˈæktɪv] 活跃的
+- **confirm** [kənˈfɜːrm] 确认
+- **cancel** [ˈkænsl] 取消
+- **ignore** [ɪɡˈnɔːr] 忽略
+- **global** [global]  全部的
+- **validate** [ˈvælɪdeɪt]  验证
 
 ### 数据库操作
 
@@ -19,7 +28,12 @@
 
 
 
-## 微服务常用词汇
+## 架构常用词汇
+
+### 架构常用术语
+
+- **master** [ˈmæstər] 主人 
+- **slave** [sleɪv] 奴隶，通常在架构里指从机，例如mysql一主多从架构就是一个master节点多个slave节点
 
 ### SpringCloud组件
 
