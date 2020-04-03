@@ -19,6 +19,9 @@
 - **ignore** [ɪɡˈnɔːr] 忽略
 - **global** [global]  全部的
 - **validate** [ˈvælɪdeɪt]  验证
+- **snapshot** [ˈsnæpʃɑːt] 快照
+- **mock** [mɑːk] 模拟的，通常指在测试用例的时候去模拟一些非本地的方法和数据
+- **proxy** [ˈprɑːksi] 代理
 
 ### 数据库操作
 
