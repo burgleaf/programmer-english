@@ -56,7 +56,7 @@
 
 - **zuul** [zool]   springcloud网关组件,Netflix公司出品
 - **ribbon** [rɪbən]  缎带，springcloud负载均衡组件，Netflix公司出品 
-- **feign** [feɪn] 假装，springcloud远程调用组件，Netflix公司出品 
+- **feign** [feɪn] 假装，springcloud远程调用组件
 
-
+- **hystrix** [hɪst'rɪks] 断路器，springcloud熔断器组件
 
