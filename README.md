@@ -22,6 +22,9 @@
 - **snapshot** [ˈsnæpʃɑːt] 快照
 - **mock** [mɑːk] 模拟的，通常指在测试用例的时候去模拟一些非本地的方法和数据
 - **proxy** [ˈprɑːksi] 代理
+- **rule** [ruːl] 规则
+- **retry** [retry] 重操作
+- **available** [əˈveɪləbl] 可用
 
 ### 数据库操作
 
@@ -37,6 +40,9 @@
 
 - **master** [ˈmæstər] 主人 
 - **slave** [sleɪv] 奴隶，通常在架构里指从机，例如mysql一主多从架构就是一个master节点多个slave节点
+- **atomic** [atomic] 原子的
+- **load balance** [loʊd] [ˈbæləns] 负载均衡
+- **discovery** [dɪˈskʌvəri] 发现
 
 ### SpringCloud组件
 
@@ -48,9 +54,9 @@
 
 - **consul** [ˈkɑːnsl]  领事  springcloud服务发现组件，HashiCorp公司出品
 
-#### 网关类
-
 - **zuul** [zool]   springcloud网关组件,Netflix公司出品
+- **ribbon** [rɪbən]  缎带，springcloud负载均衡组件，Netflix公司出品 
+- **feign** [feɪn] 假装，springcloud远程调用组件，Netflix公司出品 
 
 
 
